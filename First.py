@@ -1,0 +1,1 @@
+print (" Bloody hell of this fucking world ")
